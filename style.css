@@ -133,17 +133,6 @@ body {
     top: 91%;
 }
 
-.ips {
-    text-align: right;
-    width: 98%;
-    margin: 8px auto;
-    padding: 10px;
-}
-
-.ipstext {
-    text-align: right;
-    width: 100%;
-}
 
 .mySlides {display: none}
 img {vertical-align: middle;}
@@ -221,3 +210,5 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+
+
